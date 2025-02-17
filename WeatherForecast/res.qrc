@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/大雨.png</file>
+        <file>res/多云.png</file>
+        <file>res/风.png</file>
+        <file>res/雷雨.png</file>
+        <file>res/晴.png</file>
+        <file>res/太阳雨.png</file>
+        <file>res/小雨.png</file>
+        <file>res/阴.png</file>
+        <file>res/雨夹雪.png</file>
+        <file>res/风速_面.png</file>
+        <file>res/负氧离子.png</file>
+        <file>res/PM2.5.png</file>
+        <file>res/大气湿度_面.png</file>
+        <file>res/搜索.png</file>
+        <file>res/雾.png</file>
+        <file>res/降雪.png</file>
+        <file>res/阵雨.png</file>
+    </qresource>
+</RCC>
